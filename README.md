@@ -5,7 +5,7 @@ The project is based on the [Instructables tutorial by Limengdu](https://www.ins
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 The goal of this project is to:
 - Capture images using the onboard ESP32-S3 camera.  
@@ -16,7 +16,7 @@ This repo currently focuses on setting up the camera and running the base face r
 
 ---
 
-## 🧠 Hardware Requirements
+## Hardware Requirements
 
 - **Seeed Studio XIAO ESP32S3 Sense** (or compatible ESP32-S3 board)  
 - **Camera Module** (OV2640)  
@@ -25,7 +25,7 @@ This repo currently focuses on setting up the camera and running the base face r
 
 ---
 
-## 💻 Software Requirements
+## Software Requirements
 
 - **Arduino IDE** (latest version)  
 - **ESP32 board package** installed  
@@ -36,7 +36,7 @@ This repo currently focuses on setting up the camera and running the base face r
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 1. **Install ESP32 Support in Arduino IDE**
    - Go to **File → Preferences** and add this URL to *Additional Board Manager URLs*:  
@@ -66,6 +66,4 @@ This repo currently focuses on setting up the camera and running the base face r
    - Visit that IP address in your browser to see the live camera feed and face recognition interface.
 
 ---
-
-## 🧩 Repository Structure
 
